@@ -101,3 +101,4 @@ for key, value in d6.items():
 d6.clear()
 print(d6)                # {}
 print("hello fellas")
+print("hello guys")
